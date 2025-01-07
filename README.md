@@ -6,7 +6,7 @@ Not yet tested with higher lib versions ...
 
 librairies used :
 - esp32 v 2.0.14
-- TFT_espi 
+- TFT_eSPI 
 - Animated GIF
 
 Go to https://github.com/thelastoutpostworkshop/animated_gif_memory to download the original prog
