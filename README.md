@@ -1,4 +1,4 @@
-# esp32c3_GC9A01
+# ESP32c3_GC9A01
 a script to run esp32c3 SEED XIAO with GC9A01 eye animated gif
 
 First of all you have to downgrade the esp32 lib to 2.0.14 version into the arduino IDE, if not the screen will not light !
