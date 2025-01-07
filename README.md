@@ -10,7 +10,7 @@ librairies used :
 - Animated GIF
 
 Go into /Documents/Arduino/libraries/TFT_eSPI and rename User_Setup.h to User_Setup.save
-then copy the file User_Setup.h in this is the config to drive correctly the screen with the esp32c3
+then copy the file User_Setup.h in this repository this is the config to drive correctly the screen with the esp32c3
 
 
 use 
