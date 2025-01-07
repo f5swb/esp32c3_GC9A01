@@ -14,3 +14,9 @@ then copy the file User_Setup.h in this repository this is the config to drive c
 
 
 use 
+https://ezgif.com/resize to resize your gif animated 240x240
+
+https://github.com/bitbank2/image_to_c to prepare the gif file to c mode
+
+then put the file into /images 
+
